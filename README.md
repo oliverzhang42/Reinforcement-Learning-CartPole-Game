@@ -2,6 +2,7 @@
 An implementation of an algorithm that plays OpenAI's CartPole game. The algorithm is based in reinforcement learning, using the Monte Carlo Algorithm.
 
 Author: Oliver Zhang
+
 Last Modified: 2/22/18
 
 Goal: Learn how to play the CartPole Game. I'm using the implementation of
@@ -19,5 +20,12 @@ https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8f
 
 # How to Run:
 Copy the file CartPole_MonteCarlo.py to your computer.
+
 Modify path variable to point to a folder for saving weights.
+
 Run it on python3.
+
+# Options:
+By changing 'debug' variable to true, you can print debugging information.
+
+By changing 'display_img' variable to true, you can visualize what your program is doing.
