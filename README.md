@@ -1,8 +1,8 @@
 # Reinforcement-Learning-CartPole-Game
 An implementation of an algorithm that plays OpenAI's CartPole game. The algorithm is based in reinforcement learning, using the Monte Carlo Algorithm.
 
-```Author: Oliver Zhang
-```Last Modified: 2/22/18
+Author: Oliver Zhang <br>
+Last Modified: 2/22/18
 
 Goal: Learn how to play the CartPole Game. I'm using the implementation of
 CartPole by OpenAI:
